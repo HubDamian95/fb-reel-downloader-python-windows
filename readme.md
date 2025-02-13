@@ -1,6 +1,7 @@
 How to build it yourself:
 
 ```
+pip install -r requirements.txt
 pip install pyinstaller
 pyinstaller --onefile --windowed python_downloader.py
 ```
