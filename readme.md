@@ -9,5 +9,5 @@ My checksum:
 ```
 Algorithm       Hash                                                                  
 ---------       ----                                                                  
-MD5             5A98CDDDD8DF65919432B69C7B574CF7  
+MD5             98AC58AA4EF46B96C8AC29893159B920
 ```
