@@ -1,4 +1,4 @@
-#how to build it yourself:
+How to build it yourself:
 
 ```
 pip install pyinstaller
