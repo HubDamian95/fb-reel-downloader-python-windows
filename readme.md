@@ -5,6 +5,12 @@ pip install pyinstaller
 pyinstaller --onefile --windowed python_downloader.py
 ```
 
+or you can run this yourself in python
+```
+pip install -r requirements.txt
+python3 python_downloader.py
+```
+
 My checksum: 
 ```
 Algorithm       Hash                                                                  
